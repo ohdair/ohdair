@@ -10,8 +10,7 @@
 
 📞 contact
 
-<img src="https://img.shields.io/badge/ohdiar@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=ohdiar@gmail.com"/> 
-<img src="https://img.shields.io/badge/ro_heun-E4405F?&style=flat&logo=Instagram&logoColor=FFFFFF&link=https://instagram.com/ro_heun"/>
+<a href="ohdiar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ohdiar@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=ohdiar@gmail.com"/> <a href="https://instagram.com/ro_heun" target="_blank"><img src="https://img.shields.io/badge/ro_heun-E4405F?&style=flat&logo=Instagram&logoColor=FFFFFF"/>
 
 <!--
 **ohdair/ohdair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
