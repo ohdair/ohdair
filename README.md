@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+Hello, World 🌏
+🙍‍♀️ Profile
+Chemical Engineering, Konkuk University(2016 - 2021)
+42 Seoul Cadet (2020.12 - )
+Code Starter Camp, yagom academy (2021.12.06 - 2022.01.07)
+📞 contact
+Gmail Badge 
 <!--
 **ohdair/ohdair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
