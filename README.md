@@ -11,7 +11,7 @@
 
 📞 contact
 
-<a href="mailto:ohdiar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ohdiar@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=ohdiar@gmail.com"/> <a href="https://instagram.com/ro_heun" target="_blank"><img src="https://img.shields.io/badge/ro_heun-E4405F?&style=flat&logo=Instagram&logoColor=FFFFFF"/> <a href="https://raidho.tistory.com" target="_blank"><img src="https://img.shields.io/badge/blog-000000?&style=flat&logo=Tistory&logoColor=FFFFFF"/>
+<a href="mailto:ohdiar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ohdiar@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=ohdiar@gmail.com"/> <a href="https://instagram.com/ro_heun" target="_blank"> <a href="https://raidho.tistory.com" target="_blank"><img src="https://img.shields.io/badge/blog-000000?&style=flat&logo=Tistory&logoColor=FFFFFF"/>
 
 
   <br/>
