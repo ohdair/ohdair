@@ -4,7 +4,7 @@
 👤 Profile
 ---
 - 42Seoul Cadet   (04/2021 ~ 04/2023)
-- 새싹 (01/2023 ~)
+- 새싹 (01/2023 ~ 06/2023)
 <br/>
 
 <!-- <img src="https://img.shields.io/badge/04/2021 ~-222222?label=42SEOUL&style=flat-square&logo=42&labelColor=000000&logoColor=FFFFFF"/> -->
