@@ -1,5 +1,8 @@
-### Hello, World 🌏
+![### Hello, World 🌏
+](https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Hello%20,%20I'm%20Joo&section=header&reversal=true&animation=fadeIn&fontAlign=50&fontAlignY=45)
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohdair%2Fhit-counter&count_bg=%23DDDDDD&title_bg=%2331363F&icon=twitter.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
 👤 Profile
 ---
@@ -19,7 +22,12 @@
   
 📚 stack
   ---
-<img src="https://img.shields.io/badge/Swift-F05138?&style=flat&logo=Swift&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C-A8B9CC?&style=flat&logo=C&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-00599C?&style=flat&logo=C++&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Swift-F05138?&style=plastic&logo=Swift&logoColor=DDDDDD"/> <img src="https://img.shields.io/badge/C-A8B9CC?&style=plastic&logo=C&logoColor=DDDDDD"/> <img src="https://img.shields.io/badge/C++-00599C?&style=plastic&logo=c%2B%2B&logoColor=DDDDDD"/> ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=plastic&logo=Python&logoColor=%23DDDDDD) ![Static Badge](https://img.shields.io/badge/Jupyter-%23F37626?style=plastic&logo=jupyter&logoColor=%23DDDDDD) ![Static Badge](https://img.shields.io/badge/scikitlearn-%23F7931E?style=plastic&logo=scikitlearn&logoColor=%23DDDDDD) ![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=plastic&logo=mysql&logoColor=%23DDDDDD) ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=plastic&logo=git&logoColor=%23DDDDDD) ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=plastic&logo=GitHub&logoColor=%23DDDDDD)
+
+ 
+
+
+
 
 
   <br/>
@@ -28,8 +36,8 @@
 🛠️ Github Stats
   
   <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ohdair&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohdair&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ohdair&show_icons=true&include_all_commits=true&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohdair&layout=compact&theme=dracula">
 </p>
  <br/>
 
