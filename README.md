@@ -41,4 +41,8 @@
 </p>
  <br/>
 
+Algorithms
+
+![](https://leetcard.jacoblin.cool/ohdair?border=0&radius=20) [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=ohdiar)](https://solved.ac/ohdiar)
  
