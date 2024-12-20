@@ -7,7 +7,8 @@
 👤 Profile
 ---
 - 42Seoul Cadet   (04/2021 ~ 04/2023)
-- 새싹 (01/2023 ~ 06/2023)
+- [야곰 아카데미] iOS 앱개발(SeSAC) (01/2023 ~ 06/2023)
+- [goorm]핀테크 서비스 기획 및 데이터 분석 전문가 성장 과정 (06/2024 ~ 12/2024)
 <br/>
 
 <!-- <img src="https://img.shields.io/badge/04/2021 ~-222222?label=42SEOUL&style=flat-square&logo=42&labelColor=000000&logoColor=FFFFFF"/> -->
