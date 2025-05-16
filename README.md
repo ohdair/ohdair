@@ -1,8 +1,6 @@
 ![### Hello, World 🌏
 ](https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Hello%20,%20I'm%20Joo&section=header&reversal=true&animation=fadeIn&fontAlign=50&fontAlignY=45)
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohdair%2Fhit-counter&count_bg=%23DDDDDD&title_bg=%2331363F&icon=twitter.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
 👤 Profile
 ---
